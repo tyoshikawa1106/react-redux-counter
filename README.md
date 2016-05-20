@@ -6,3 +6,6 @@
 $ npm install
 # npm start
 ```
+
+## Simple Ver
+https://gist.github.com/tyoshikawa1106/ed3bebfb54123177cec84535f432a9c4
